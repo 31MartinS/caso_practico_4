@@ -1,0 +1,39 @@
+# Archivos de credenciales (¡IMPORTANTE!)
+firebase-service-account.json
+firebase-service-account2.json
+google-cloud-key.json
+
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+
+# Archivos de entorno y configuración
+.env
+*.iml
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Archivos generados por Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+
+# Archivos específicos de cada plataforma
+android/.gradle/
+android/app/google-services.json
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+linux/
+macos/
+windows/
+
+# Archivos de prueba
+test/
+
+# Archivos generados por pub
+pubspec.lock
